@@ -45,7 +45,7 @@
                                 <th scope="col" class="text-nowrap">ปฏิบัติการ</th>
                                 <th scope="col" class="text-nowrap">IP Address</th>
                                 <th scope="col" class="text-nowrap">เวลา</th>
-                                <th scope="col" class="text-nowrap">สถา</th>
+                                <th scope="col" class="text-nowrap">สถานะ</th>
                             </tr>
                         </thead>
                         <tbody id="myTable">
