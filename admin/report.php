@@ -52,7 +52,7 @@
                             <?php
                 include "../connect.php";
                   $sql = "SELECT * FROM log JOIN ip WHERE log.id_ip = ip.ipaddress
-                  ORDER by date_time DESC";
+                  ORDER by date_time ";
                   // echo '<pre>';
                   // print_r($sql);
                   // echo'</pre>';
